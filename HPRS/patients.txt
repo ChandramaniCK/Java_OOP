@@ -1,0 +1,2 @@
+1,mani,18,cancer
+2,chandra ,19,diabetes
